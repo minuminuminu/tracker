@@ -2,8 +2,8 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 const Flexbox = styled.div`
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
